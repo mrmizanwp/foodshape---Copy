@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 25 Jul 2022 19:34:35 at http://rachoudhury.com/foodshape/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://rachoudhury.com/foodshape/ -%L http://rachoudhury.com/foodshape/ -O1 "C:\Users\user\Desktop\foodshape" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:34:35	Error: 	Could not include URL list: http://rachoudhury.com/foodshape/
+19:40:56	Error: 	"Not Found" (404) at link rachoudhury.com/foodshape/css/owl.video.play.png (from rachoudhury.com/foodshape/css/owl.carousel.min.css)
+19:41:11	Error: 	"Not Found" (404) at link rachoudhury.com/foodshape/page to/header.png (from rachoudhury.com/foodshape/css/style.css)
+19:41:11	Error: 	"Not Found" (404) at link rachoudhury.com/foodshape/images/service-tab-img-02.png (from rachoudhury.com/foodshape/typed.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 36 seconds : 93 links scanned, 89 files written (10320898 bytes overall) [10163310 bytes received at 25664 bytes/sec], 242263 bytes transferred using HTTP compression in 15 files, ratio 24%
+(4 errors, 0 warnings, 0 messages)
